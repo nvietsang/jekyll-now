@@ -14,6 +14,7 @@ permalink: /milestones/
 + June: Scholarchip from Kanden SS (Japan) for excellent students at HCMUT
 + September: Started off the journey in University of Limoges, France
 + November: Graduation Ceremony at HCMUT, got BE degree in Computer Sciences (Very Good, 8.35/10)
++ December: Trip to Barcelona at watched Messi in Camp Nou
 
 # 2018
 + March: Started off the Question Answering project
