@@ -3,8 +3,6 @@ layout: post
 title: Hacking ciphertext of RSA by factorizing
 ---
 
-# Hacking ciphertext of RSA by factorizing
-
 In this post, we break RSA algorithm with the library of Crypto in Python. Suppose that we have the basic knowledge of RSA and how it works.
 
 Bob would like to send the message *m* to Alice. He encrypts this message with the public key of Alice.
