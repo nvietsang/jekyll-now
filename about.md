@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Sang. I'm currently a Master Student at the University of Limoges, France (CRYPTIS PROGRAM). The major I focus on is Information Security.
 
-### More Information
+I got a B.E degree in Computer Science (HONORS PROGRAM) at Ho Chi Minh University of Technology (HCMUT) in 2019. My thesis was to build a system for Question-Answering problem applying Deep Learning in Vietnamese.
 
-A place to include any other types of information that you'd like to include about yourself.
+I always open to make friends with interesting people. Feel free to contact me via social media !
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nvietsang@gmail.com](mailto:nvietsang@gmail.com)
