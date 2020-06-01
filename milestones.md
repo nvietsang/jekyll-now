@@ -5,7 +5,9 @@ permalink: /milestones/
 ---
 
 # 2020
-+ January: Rank 2 in first semester, M1 Info class, Cryptis Program, UNILIM
++ January: Rank 2/23 in the first semester (14.22/20), Master 1 Information Security, Cryptis Program, UNILIM
++ May: Rank 4/19 in the second semester (15.47/20)
+Overall: Rank 2/20 Master 1 Information Security, Cryptis Program, UNILIM
 
 # 2019
 + February: Scholarship from Anduin Transaction Vietnam through coding competition and interviewing
