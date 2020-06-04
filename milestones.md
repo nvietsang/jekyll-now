@@ -11,7 +11,7 @@ Overall: Rank 2/20 Master 1 Information Security, Cryptis Program, UNILIM
 
 # 2019
 + February: Scholarship from Anduin Transaction Vietnam through coding competition and interviewing
-+ April: Scholarchip from VinUni to study in Cryptis Program at University of Limoges, France
++ April: Scholarship from VinUni to study in Cryptis Program at University of Limoges, France
 + May: Thesis defense (Building a Question-Answering system based on Deep Learning), got excellent score (9.6/10)
 + June: Scholarchip from Kanden SS (Japan) for excellent students at HCMUT
 + September: Started off the journey in University of Limoges, France
