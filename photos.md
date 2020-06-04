@@ -44,7 +44,25 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2016-11-CodingCSE.jpg" style="width: 400px;"/>
 
++ November: My friend, Ngoc Ky, painted a field of flowers (lol).
+
+<img src="{{ site.baseurl }}/photos/2016-11-Sunflower.jpg" style="width: 400px;"/>
+
++ December: A lesson when I taught Physics to a 12-grade student. He then got a score of 8.25/10 in the entrance exam of HCMUT.
+
+<img src="{{ site.baseurl }}/photos/2016-12-PhysicsTeacher.jpg" style="width: 400px;"/>
+
 # 2015
+
++ August: Trip to Malaysia (together with my sister).
+
+<img src="{{ site.baseurl }}/photos/2015-08-Malay.jpg" style="width: 400px;"/>
+
+<img src="{{ site.baseurl }}/photos/2015-08-Malay2.jpg" style="width: 400px;"/>
+
++ August: Trip to Singapore (together with my sister).
+
+<img src="{{ site.baseurl }}/photos/2015-08-Sing.jpg" style="width: 400px;"/>
 
 + October: A meeting in semester of military training
 
