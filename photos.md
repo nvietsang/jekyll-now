@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Photos
-permalink: /projects/
+permalink: /photos/
 ---
+
 08-2019: Trip to Binh Ba Island together with wonderful classmates in HCMUT
 
 <img src="{{ site.baseurl }}/photos/05-2017-BKITQUIZ.jpg" style="width: 400px;"/>
