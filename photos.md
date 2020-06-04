@@ -12,6 +12,8 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2019-08-KHTN.jpg" style="width: 400px;"/>
 
+<img src="{{ site.baseurl }}/photos/2019-08-KHTNall.jpg" style="width: 700px;"/>
+
 # 2018
 
 + April: Trip to Hai Tac Island (Kien Giang) together with high school classmates
@@ -30,11 +32,23 @@ permalink: /photos/
 
 # 2016
 
++ February: Football Championship of Reunion together with high school classmates.
+
+<img src="{{ site.baseurl }}/photos/2016-02-FootballNdu.jpg" style="width: 400px;"/>
+
++ October: Camping of Welcoming Freshman in Faculty of CSE.
+
+<img src="{{ site.baseurl }}/photos/2016-10-Camp.jpg" style="width: 400px;"/>
+
 + November: Attended a coding competition in Faculty of Computer Sciences and Engineering. I was in team with Nguyen Ngoc Ky (center) and Hoang Tran Minh Tai (rightmost).
 
 <img src="{{ site.baseurl }}/photos/2016-11-CodingCSE.jpg" style="width: 400px;"/>
 
 # 2015
+
++ October: A meeting in semester of military training
+
+<img src="{{ site.baseurl }}/photos/2015-10-military.jpg" style="width: 400px;"/>
 
 + March: Birthday of our homeroom teacher. I and my classmates organised a birthday celebration for him. We also had a day without lessons :D 
 
