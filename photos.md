@@ -56,17 +56,17 @@ permalink: /photos/
 
 + August: Trip to Malaysia (together with my sister).
 
-<img src="{{ site.baseurl }}/photos/2015-08-Malay.jpg" style="width: 400px;"/>
+<img src="{{ site.baseurl }}/photos/2015-08-Malay.jpg" style="width: 200px;"/>
 
-<img src="{{ site.baseurl }}/photos/2015-08-Malay2.jpg" style="width: 400px;"/>
+<img src="{{ site.baseurl }}/photos/2015-08-Malay2.jpg" style="width: 300px;"/>
 
 + August: Trip to Singapore (together with my sister).
 
-<img src="{{ site.baseurl }}/photos/2015-08-Sing.jpg" style="width: 400px;"/>
+<img src="{{ site.baseurl }}/photos/2015-08-Sing.jpg" style="width: 100px;"/>
 
-+ October: A meeting in semester of military training
+<!-- + October: A meeting in semester of military training
 
-<img src="{{ site.baseurl }}/photos/2015-10-military.jpg" style="width: 400px;"/>
+<img src="{{ site.baseurl }}/photos/2015-10-military.jpg" style="width: 400px;"/> -->
 
 + March: Birthday of our homeroom teacher. I and my classmates organised a birthday celebration for him. We also had a day without lessons :D 
 
