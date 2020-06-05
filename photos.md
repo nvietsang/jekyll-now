@@ -56,13 +56,13 @@ permalink: /photos/
 
 + August: Trip to Malaysia (together with my sister).
 
-<img src="{{ site.baseurl }}/photos/2015-08-Malay.jpg" style="width: 200px;"/>
+<img src="{{ site.baseurl }}/photos/2015-08-Malay.jpg" style="width: 400px;"/>
 
-<img src="{{ site.baseurl }}/photos/2015-08-Malay2.jpg" style="width: 300px;"/>
+<img src="{{ site.baseurl }}/photos/2015-08-Malay2.jpg" style="width: 400px;"/>
 
 + August: Trip to Singapore (together with my sister).
 
-<img src="{{ site.baseurl }}/photos/2015-08-Sing.jpg" style="width: 100px;"/>
+<img src="{{ site.baseurl }}/photos/2015-08-Sing.jpg" style="width: 400px;"/>
 
 <!-- + October: A meeting in semester of military training
 
