@@ -34,7 +34,7 @@ permalink: /photos/
 
 + December: Trip to Barcelona. It's a very beautiful City. I really love it <3
 
-<img src="{{ site.baseurl }}/photos/2019-12-Barcelona.jpg" style="width: 400px;"/>
+<img src="{{ site.baseurl }}/photos/2019-12-Barcelona.jpg" style="width: 700px;"/>
 
 + December: Matchday at Camp Nou. It was the first time in life to see Barca team, especially Lionel Messi.
 
