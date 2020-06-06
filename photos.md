@@ -8,7 +8,7 @@ permalink: /photos/
 
 + January: Passing over 5000 km (from France to hometown) to enjoy Lunna New Year with friends and family.
 
-<img src="{{ site.baseurl }}/photos/2020-01-NewYear.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2020-01-NewYear.jpg" style="width: 400px;"/>
 
 + May: Hanging out around Limoges City after Covid-19 and exams.
 
@@ -26,7 +26,7 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2019-08-KHTN.jpg" style="width: 400px;"/>
 
-<img src="{{ site.baseurl }}/photos/2019-08-KHTNall.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2019-08-KHTNall.jpg" style="width: 400px;"/>
 
 + June: Thesis defense at HCMUT.
 
@@ -34,7 +34,7 @@ permalink: /photos/
 
 + December: Trip to Barcelona. It's a very beautiful City. I really love it <3
 
-<img src="{{ site.baseurl }}/photos/2019-12-Barcelona.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2019-12-Barcelona.jpg" style="width: 400px;"/>
 
 + December: Matchday at Camp Nou. It was the first time in life to see Barca team, especially Lionel Messi.
 
@@ -50,7 +50,7 @@ permalink: /photos/
 
 + September: Global Project Based Learning (gPBL). Japanese teamates.
 
-<img src="{{ site.baseurl }}/photos/2018-09-gBPL.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2018-09-gBPL.jpg" style="width: 400px;"/>
 
 # 2017
 
@@ -81,7 +81,7 @@ permalink: /photos/
 
 + August: Tay Nguyen Youth Summit in Da Lat City.
 
-<img src="{{ site.baseurl }}/photos/2016-08-TNYS.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2016-08-TNYS.jpg" style="width: 400px;"/>
 
 + November: Attended a coding competition in Faculty of Computer Sciences and Engineering. I was in team with Nguyen Ngoc Ky (center) and Hoang Tran Minh Tai (rightmost).
 
@@ -107,7 +107,7 @@ permalink: /photos/
 
 + July: Nha Trang Trip with awesome friends.
 
-<img src="{{ site.baseurl }}/photos/2015-07-NhaTrang.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2015-07-NhaTrang.jpg" style="width: 400px;"/>
 
 + August: Trip to Malaysia (together with my sister).
 
@@ -136,19 +136,31 @@ permalink: /photos/
 
 + March: Dancing cover (Dangerous - Michael Jackson), a performance in a 26/3 show at high school.
 
-<img src="{{ site.baseurl }}/photos/2014-03-Dangerous.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2014-03-Dangerous.jpg" style="width: 400px;"/>
 
 + April: Football team of high school.
 
-<img src="{{ site.baseurl }}/photos/2014-04-Sport.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/photos/2014-04-Sport.jpg" style="width: 400px;"/>
 
 <img src="{{ site.baseurl }}/photos/2014-04-Sport2.jpg" style="width: 400px;"/>
 
 + November: A performance of dancing in high school.
 
-<img src="{{ site.baseurl }}/photos/2014-11-ExtraActivities.jpg" style="width: 500px;"/>
+<img src="{{ site.baseurl }}/photos/2014-11-ExtraActivities.jpg" style="width: 400px;"/>
 
 # 2013
+
++ March: Camping Festival in High School.
+
+<img src="{{ site.baseurl }}/photos/2013-03-Camp.jpg" style="width: 400px;"/>
+
++ March: 3 Gold Medals in Physics (Olympic 30/4 at Ho Chi Minh City).
+
+<img src="{{ site.baseurl }}/photos/2013-03-Olympic304.jpg" style="width: 400px;"/>
+
++ April: A trip to Buon Trap, hometown of Hoang Hieu.
+
+<img src="{{ site.baseurl }}/photos/2013-04-HieuHome.jpg" style="width: 400px;"/>
 
 + November: A normal day in high school. It was a small classroom with awesome friends there.
 
