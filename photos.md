@@ -165,3 +165,17 @@ permalink: /photos/
 + November: A normal day in high school. It was a small classroom with awesome friends there.
 
 <img src="{{ site.baseurl }}/photos/2013-10-NDu.jpg" style="width: 400px;"/>
+
+# Videos
+
++ NIDS
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5G5mZ2JT_jo/0.jpg)](https://www.youtube.com/watch?v=Y5G5mZ2JT_jo)
+
++ Dangerous
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BGE4BpSkpR8/0.jpg)](https://www.youtube.com/watch?v=BGE4BpSkpR8)
+
++ Xe dap
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Eu2asadad38/0.jpg)](https://www.youtube.com/watch?v=Eu2asadad38)
