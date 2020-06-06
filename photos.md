@@ -22,15 +22,15 @@ permalink: /photos/
 
 # 2019
 
++ June: Thesis defense at HCMUT.
+
+<img src="{{ site.baseurl }}/photos/2019-06-Thesis.jpg" style="width: 400px;"/>
+
 + August: Trip to Binh Ba Island together with wonderful classmates in HCMUT
 
 <img src="{{ site.baseurl }}/photos/2019-08-KHTN.jpg" style="width: 400px;"/>
 
 <img src="{{ site.baseurl }}/photos/2019-08-KHTNall.jpg" style="width: 400px;"/>
-
-+ June: Thesis defense at HCMUT.
-
-<img src="{{ site.baseurl }}/photos/2019-06-Thesis.jpg" style="width: 400px;"/>
 
 + December: Trip to Barcelona. It's a very beautiful City. I really love it <3
 
