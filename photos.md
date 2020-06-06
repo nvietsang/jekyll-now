@@ -26,6 +26,10 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2017-02-BKITFOOTBALL.jpg" style="width: 400px;"/>
 
++ February: Lunar New Year with friends in hometown, Buon Ma Thuot City.
+
+<img src="{{ site.baseurl }}/photos/2017-02-NewYear.jpg" style="width: 400px;"/>
+
 + May: Won BKIT QUIZ competition (A local scientific competition in Faculty of Computer Sciences and Engineering). Two teamates are Tran Ngoc Quy and Chiu Tuan Binh.
 
 <img src="{{ site.baseurl }}/photos/2017-05-BKITQUIZ.jpg" style="width: 400px;"/>
@@ -36,9 +40,9 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2016-02-FootballNdu.jpg" style="width: 400px;"/>
 
-+ October: Camping of Welcoming Freshman in Faculty of CSE.
++ August: Tay Nguyen Youth Summit in Da Lat City.
 
-<img src="{{ site.baseurl }}/photos/2016-10-Camp.jpg" style="width: 400px;"/>
+<img src="{{ site.baseurl }}/photos/2016-08-TNYS.jpg" style="width: 700px;"/>
 
 + November: Attended a coding competition in Faculty of Computer Sciences and Engineering. I was in team with Nguyen Ngoc Ky (center) and Hoang Tran Minh Tai (rightmost).
 
@@ -54,6 +58,14 @@ permalink: /photos/
 
 # 2015
 
++ April: Supplemental exam.
+
+<img src="{{ site.baseurl }}/photos/2015-04-HistoryExam.jpg" style="width: 400px;"/>
+
++ July: Nha Trang Trip with awesome friends.
+
+<img src="{{ site.baseurl }}/photos/2015-07-NhaTrang.jpg" style="width: 700px;"/>
+
 + August: Trip to Malaysia (together with my sister).
 
 <img src="{{ site.baseurl }}/photos/2015-08-Malay.jpg" style="width: 400px;"/>
@@ -63,6 +75,10 @@ permalink: /photos/
 + August: Trip to Singapore (together with my sister).
 
 <img src="{{ site.baseurl }}/photos/2015-08-Sing.jpg" style="width: 400px;"/>
+
++ October: Camping of Welcoming Freshman in Faculty of CSE.
+
+<img src="{{ site.baseurl }}/photos/2015-10-Camp.jpg" style="width: 400px;"/>
 
 <!-- + October: A meeting in semester of military training
 
@@ -74,6 +90,20 @@ permalink: /photos/
 
 
 # 2014
+
++ March: Dancing cover (Dangerous - Michael Jackson), a performance in a 26/3 show at high school.
+
+<img src="{{ site.baseurl }}/photos/2014-03-Dangerous.jpg" style="width: 700px;"/>
+
++ April: Football team of high school.
+
+<img src="{{ site.baseurl }}/photos/2014-04-Sport.jpg" style="width: 700px;"/>
+
+<img src="{{ site.baseurl }}/photos/2014-04-Sport2.jpg" style="width: 400px;"/>
+
++ November: A performance of dancing in high school.
+
+<img src="{{ site.baseurl }}/photos/2014-11-ExtraActivities.jpg" style="width: 500px;"/>
 
 # 2013
 
