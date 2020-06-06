@@ -101,6 +101,10 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2015-04-HistoryExam.jpg" style="width: 400px;"/>
 
++ May: Prom - Graduation Ceremony at Nguyen Du Specialised High School. She is my liturature teacher in 12th grade who made me feel very relaxing in every of her lessons. She tolds us a lot of interesting stories in her life.
+
+<img src="{{ site.baseurl }}/photos/2015-05-Prom.jpg" style="width: 400px;"/>
+
 + July: Nha Trang Trip with awesome friends.
 
 <img src="{{ site.baseurl }}/photos/2015-07-NhaTrang.jpg" style="width: 700px;"/>
