@@ -6,6 +6,20 @@ permalink: /photos/
 
 # 2020
 
++ January: Passing over 5000 km (from France to hometown) to enjoy Lunna New Year with friends and family.
+
+<img src="{{ site.baseurl }}/photos/2020-01-NewYear.jpg" style="width: 700px;"/>
+
++ May: Hanging out around Limoges City after Covid-19 and exams.
+
+<img src="{{ site.baseurl }}/photos/2020-05-Limoges1.jpg" style="width: 400px;"/>
+
+<img src="{{ site.baseurl }}/photos/2020-05-Limoges2.jpg" style="width: 400px;"/>
+
++ June: Summer at Limoges. After doing exercises.
+
+<img src="{{ site.baseurl }}/photos/2020-06-Running.jpg" style="width: 400px;"/>
+
 # 2019
 
 + August: Trip to Binh Ba Island together with wonderful classmates in HCMUT
@@ -14,11 +28,29 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2019-08-KHTNall.jpg" style="width: 700px;"/>
 
++ June: Thesis defense at HCMUT.
+
+<img src="{{ site.baseurl }}/photos/2019-06-Thesis.jpg" style="width: 400px;"/>
+
++ December: Trip to Barcelona. It's a very beautiful City. I really love it <3
+
+<img src="{{ site.baseurl }}/photos/2019-12-Barcelona.jpg" style="width: 400px;"/>
+
++ December: Matchday at Camp Nou. It was the first time in life to see Barca team, especially Lionel Messi.
+
+<img src="{{ site.baseurl }}/photos/2019-12-Barca.jpg" style="width: 400px;"/>
+
+<img src="{{ site.baseurl }}/photos/2019-12-CampNou.jpg" style="width: 400px;"/>
+
 # 2018
 
 + April: Trip to Hai Tac Island (Kien Giang) together with high school classmates
 
 <img src="{{ site.baseurl }}/photos/2018-04-HaiTac.jpg" style="width: 400px;"/>
+
++ September: Global Project Based Learning (gPBL). Japanese teamates.
+
+<img src="{{ site.baseurl }}/photos/2018-09-gBPL.jpg" style="width: 700px;"/>
 
 # 2017
 
@@ -35,10 +67,17 @@ permalink: /photos/
 <img src="{{ site.baseurl }}/photos/2017-05-BKITQUIZ.jpg" style="width: 400px;"/>
 
 # 2016
++ January: Spring Volunteer Campaign.
+
+<img src="{{ site.baseurl }}/photos/2016-01-XTN.jpg" style="width: 400px;"/>
 
 + February: Football Championship of Reunion together with high school classmates.
 
 <img src="{{ site.baseurl }}/photos/2016-02-FootballNdu.jpg" style="width: 400px;"/>
+
++ April: BKIT QUIZ team.
+
+<img src="{{ site.baseurl }}/photos/2016-04-BKITQUIZ.jpg" style="width: 400px;"/>
 
 + August: Tay Nguyen Youth Summit in Da Lat City.
 
@@ -80,9 +119,9 @@ permalink: /photos/
 
 <img src="{{ site.baseurl }}/photos/2015-10-Camp.jpg" style="width: 400px;"/>
 
-<!-- + October: A meeting in semester of military training
++ October: A meeting in semester of military training
 
-<img src="{{ site.baseurl }}/photos/2015-10-military.jpg" style="width: 400px;"/> -->
+<img src="{{ site.baseurl }}/photos/2015-10-military.jpg" style="width: 400px;"/>
 
 + March: Birthday of our homeroom teacher. I and my classmates organised a birthday celebration for him. We also had a day without lessons :D 
 
