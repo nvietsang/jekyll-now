@@ -168,14 +168,10 @@ permalink: /photos/
 
 # Videos
 
-+ NIDS
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5G5mZ2JT_jo/0.jpg)](https://www.youtube.com/watch?v=Y5G5mZ2JT_jo)
-
-+ Dangerous
++ Dancing cover (Dangerous - Michael Jackson)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BGE4BpSkpR8/0.jpg)](https://www.youtube.com/watch?v=BGE4BpSkpR8)
 
-+ Xe dap
++ Dancing in extra-curricular activities
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Eu2asadad38/0.jpg)](https://www.youtube.com/watch?v=Eu2asadad38)
