@@ -15,7 +15,7 @@ permalink: /projects/
 
 ## Ho Chi Minh University of Technology (HCMUT)
 These are educational projects which I did in different courses at HCMUT.
-+ **Question-Answering (thesis):** Processed [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) dataset. Re-implemented the Deep Learning model [QANet](https://research.google/pubs/pub46691/) to predict an answer for a question with a English passage; Built a dataset for Vietnamese (about 10K samples). Built a model based on QANet working on Vietnamese (Exact Match 61.0%, F1-score 76.6%).
++ **Question-Answering (thesis):** Re-implemented the Deep Learning model [QANet](https://research.google/pubs/pub46691/) to predict an answer for a question with a English passage based on the dataset [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/); Built a dataset for Vietnamese (about 10K samples). Built a model based on QANet working on Vietnamese (Exact Match 61.0%, F1-score 76.6%).
 
 + **Smart Light (Global Project Based Learning):** Led a team of 6 members, including Vietnamese and Japanese students.  Designed a system with automatic light control and alarm for theft warning.  Built an Arduino circuit and wrote C program. [GitHub](https://github.com/nvietsang/smart-light-project) [Demo](https://www.youtube.com/watch?v=gqi_0X2tpN4)
 
@@ -34,16 +34,21 @@ These are educational projects which I did in different courses in UNILIM. Perso
 
 + **Image Filtering (GPGPU course, 20/20):** Utilised parallel computing to apply filters (e.g soften, sharpen, Sobel) on images with CUDA. Improved speed of computation through different versions (CPU, OpenMP, Naive CUDA, Shared memory on CUDA). Did experiments and comparisons.
 
-+ **Tunnel L2TPv3 secured by IPsec (Network Infrastructure course):** Built a network with VLANs by *netnamespaces* and *open vswitch* in Linux. Built a L2TPv3 tunnel for Vitual Private Networks (VPNs). Implemented IPsec to secure traffic of the tunnel. Configured DHCP servers for different VLANs. Implemented different encapsulation modes of L2TPv3 (IP and UDP) and GRETAP, explored packets with *tcpdump* and *Wireshark* and did comparisons. Studied transfering speed of encrypted packets by command *iperf*. Configured the address translation in NetFilter by *iptables* in order to access the Internet. Optimized the routs of accessing Internet by *dnsmasq*. Prevented traffic between different VLANs by rules of firewall and *Policy Routing*.
++ **Tunnel L2TPv3 secured by IPsec (Network Infrastructure course, 17.5/20):** Built a network with VLANs by *netnamespaces* and *open vswitch* in Linux. Built a L2TPv3 tunnel for Vitual Private Networks (VPNs). Implemented IPsec to secure traffic of the tunnel. Configured DHCP servers for different VLANs. Implemented different encapsulation modes of L2TPv3 (IP and UDP) and GRETAP, explored packets with *tcpdump* and *Wireshark* and did comparisons. Studied transfering speed of encrypted packets by command *iperf*. Configured the address translation in NetFilter by *iptables* in order to access the Internet. Optimized the routs of accessing Internet by *dnsmasq*. Prevented traffic between different VLANs by rules of firewall and *Policy Routing*.
 
 + **Transparent Proxy (Avanced Network 1 course):** Built a private network by *netnamespaces* and *open vswitch* in Linux. Configured a DHCP server with *dnsmasq*. Configured the firewall and address translation in NetFilter by *iptables* in order to access the Internet and redirect traffic. Implemented a server as a Proxy to require authentification before accessing the Internet.
 
-+ **Brute-force attack to WiFi password (Avanced Network 2 course):** 
++ **Brute-force attack to WiFi password (Avanced Network 2 course):** Given captured traffic (pcap) of WiFi connection. Studied the protocol of exchange *WPA-PSK*. Used Scapy to analyze packets and brute-force. 
 
-+ **CertifPlus (Security of using ICT):** 
-+ **Image Texture Synthesis (Avanced Algorithm and Programmation):**
-+ **TriviaLim (Advanced Java course):** 
++ **CertifPlus (Security of using ICT, 17/20):** Built a back-end server to securely distribute and verify electronic attestations using signatures and timestamps. Generated keys and certificates for Certificate Authentity (CA) and server by [openssl](https://www.openssl.org). Applied steganograhpy to hide signatures and QRcode to hide timestamp. Requested and verify timestamp by [https://www.freetsa.org](https://www.freetsa.org). Built a frontal server to avoid direct interactions between clients and back-end server. [Demo](https://youtu.be/_Zw2cijWcmE)
+
++ **Image Texture Synthesis (Avanced Algorithm and Programmation):** Designed and implemented a dynamic programming algorithm for image texture synthesis based on the paper [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting.html). Implemented different algorithms (recursion, recursion with redundant calculation, iteration), did experiments and comparisons.
+
++ **TriviaLim (Advanced Java course, 17/20):** Built an Android gaming application of answering multiple-choice questions. Designed the architecture of database and the script. Applied fragments to control activities. Used Firebase as database.
+
 + **Game of Labyrinth (Artificial Intelligence 1 course):**
-+ **Learning Algorithms (Artificial Intelligence 2 course):** 
-+ **NashE and Dom (Game Theory course):**
+Implemented different searching algorithms (Best-First Search, A*, Breath-First Search, Depth-First Search).
++ **Learning Algorithms (Artificial Intelligence 2 course):** Implement unsupervised algorithm (K-means) and supervised algorithms (Perceptron, Neuron Network) to classify. Did experiments and comparisons. [Demo](https://youtu.be/GNThQGsgZD4)
+
++ **NashE and Dom (Game Theory course, 17/20):** Computed pure Nash equilibrium, mixed Nash equilibrium, dominated strategies and check if a game is zero-sum. Applied to different types of games (2 players - 2 actions, 2 players - many actions, many players - many actions).
 
