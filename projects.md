@@ -15,7 +15,7 @@ permalink: /projects/
 
 ## Ho Chi Minh University of Technology (HCMUT)
 These are educational projects which I did in different courses at HCMUT.
-+ **Question-Answering (thesis):** Re-implemented the Deep Learning model [QANet](https://research.google/pubs/pub46691/) to predict an answer for a question with a English passage based on the dataset [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/); Built a dataset for Vietnamese (about 10K samples). Built a model based on QANet working on Vietnamese (Exact Match 61.0%, F1-score 76.6%).
++ **Question-Answering (thesis):** Re-implemented the Deep Learning model [QANet](https://research.google/pubs/pub46691/) to predict an answer for a question with a English passage based on the dataset [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/); Built a dataset for Vietnamese (about 10K samples). Built a model based on QANet working on Vietnamese (Exact Match 61.0%, F1-score 76.6%). [Demo](http://qa-vi.herokuapp.com)
 
 + **Smart Light (Global Project Based Learning):** Led a team of 6 members, including Vietnamese and Japanese students.  Designed a system with automatic light control and alarm for theft warning.  Built an Arduino circuit and wrote C program. [GitHub](https://github.com/nvietsang/smart-light-project) [Demo](https://www.youtube.com/watch?v=gqi_0X2tpN4)
 
@@ -26,7 +26,7 @@ These are educational projects which I did in different courses at HCMUT.
 + **LineXO (Mobile Application Development course):** Worked with a team of 4 members to build an Android application of game. Designed database and implemented with Firebase. [GitHub](https://github.com/nvietsang/linexo) [Slide](https://github.com/nvietsang/linexo/blob/master/Presentation/LineXO/LineXO.pdf)
 
 ## University of Limoges (UNILIM)
-These are educational projects which I did in different courses in UNILIM. Personally, I think almost of them are really interesting. I feel like I learned a ton of things whenever finishing each of them. 
+These are educational projects which I did in different courses in UNILIM. Personally, I think most of them are really interesting. I feel like I learned a ton of things whenever finishing them. 
 
 + **NIDS based on Deep Learning:** Built a real-time Network Intrusion Detection System (NIDS). Combined AI and Big Data technologies. Implemented with [Snort](https://www.snort.org) (to detect suspect traffic), Kafka (to coordinate data thanks to consumer and producer), Deep Learning (to build model based on dataset [KDDCup99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) and predict type of attacks), Zeek (to transform pcap to readable data), Spark (to convert data to KDD99Cup's format). [Demo](https://www.youtube.com/watch?v=5G5mZ2JT_jo)
 
@@ -50,5 +50,5 @@ These are educational projects which I did in different courses in UNILIM. Perso
 Implemented different searching algorithms (Best-First Search, A*, Breath-First Search, Depth-First Search).
 + **Learning Algorithms (Artificial Intelligence 2 course):** Implement unsupervised algorithm (K-means) and supervised algorithms (Perceptron, Neuron Network) to classify. Did experiments and comparisons. [Demo](https://youtu.be/GNThQGsgZD4)
 
-+ **NashE and Dom (Game Theory course, 17/20):** Computed pure Nash equilibrium, mixed Nash equilibrium, dominated strategies and check if a game is zero-sum. Applied to different types of games (2 players - 2 actions, 2 players - many actions, many players - many actions).
++ **NashE and Dom (Game Theory course, 17/20):** Computed pure Nash equilibrium, mixed Nash equilibrium, dominated strategies and check if a game is zero-sum. Applied to different types of games (2 players - 2 actions, 2 players - many actions, many players - many actions).[Demo](https://youtu.be/blwCa2zhBn8)
 
