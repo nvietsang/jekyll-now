@@ -26,7 +26,7 @@ These are educational projects which I did in different courses at HCMUT.
 + **LineXO (Mobile Application Development course):** Worked with a team of 4 members to build an Android application of game. Designed database and implemented with Firebase. [GitHub](https://github.com/nvietsang/linexo) [Slide](https://github.com/nvietsang/linexo/blob/master/Presentation/LineXO/LineXO.pdf)
 
 ## University of Limoges (UNILIM)
-These are educational projects which I did in different courses in UNILIM. Personally, I think most of them are really interesting. I feel like I learned a ton of things whenever finishing them. 
+These are educational projects which I did in different courses in UNILIM. Personally, I think most of them are really interesting. I feel like I learned a ton of things when finishing them. 
 
 + **NIDS based on Deep Learning:** Built a real-time Network Intrusion Detection System (NIDS). Combined AI and Big Data technologies. Implemented with [Snort](https://www.snort.org) (to detect suspect traffic), Kafka (to coordinate data thanks to consumer and producer), Deep Learning (to build model based on dataset [KDDCup99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) and predict type of attacks), Zeek (to transform pcap to readable data), Spark (to convert data to KDD99Cup's format). [Demo](https://www.youtube.com/watch?v=5G5mZ2JT_jo)
 
@@ -40,9 +40,9 @@ These are educational projects which I did in different courses in UNILIM. Perso
 
 + **Brute-force attack to WiFi password (Avanced Network 2 course):** Given captured traffic (pcap) of WiFi connection. Studied the protocol of exchange *WPA-PSK*. Used Scapy to analyze packets and brute-force. 
 
-+ **CertifPlus (Security of using ICT, 17/20):** Built a back-end server to securely distribute and verify electronic attestations using signatures and timestamps. Generated keys and certificates for Certificate Authentity (CA) and server by [openssl](https://www.openssl.org). Applied steganograhpy to hide signatures and QRcode to hide timestamp. Requested and verify timestamp by [https://www.freetsa.org](https://www.freetsa.org). Built a frontal server to avoid direct interactions between clients and back-end server. [Demo](https://youtu.be/_Zw2cijWcmE)
++ **CertifPlus (Security of using ICT course, 17/20):** Built a back-end server to securely distribute and verify electronic attestations using signatures and timestamps. Generated keys and certificates for Certificate Authentity (CA) and server by [openssl](https://www.openssl.org). Applied steganograhpy to hide signatures and QRcode to hide timestamp. Requested and verify timestamp by [https://www.freetsa.org](https://www.freetsa.org). Built a frontal server to avoid direct interactions between clients and back-end server. [Demo](https://youtu.be/_Zw2cijWcmE)
 
-+ **Image Texture Synthesis (Avanced Algorithm and Programmation):** Designed and implemented a dynamic programming algorithm for image texture synthesis based on the paper [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting.html). Implemented different algorithms (recursion, recursion with redundant calculation, iteration), did experiments and comparisons.
++ **Image Texture Synthesis (Avanced Algorithm and Programmation course):** Designed and implemented a dynamic programming algorithm for image texture synthesis based on the paper [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting.html). Implemented different algorithms (recursion, recursion with redundant calculation, iteration), did experiments and comparisons.
 
 + **TriviaLim (Advanced Java course, 17/20):** Built an Android gaming application of answering multiple-choice questions. Designed the architecture of database and the script. Applied fragments to control activities. Used Firebase as database.
 
