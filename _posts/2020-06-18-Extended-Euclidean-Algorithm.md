@@ -44,29 +44,35 @@ First of all, we initialize the table as follows. Notice that **u[0] = 0, u[1] =
 |---|----|---|---|-|
 | 0 | 75 | 0 | 1 | |
 | 1 | 28 | 1 | 0 | |
+{: .tablelines}
 
 Secondly, **q[1] = 75/28 = 2** and the reminder is **19**
 **u[2] = u[0] - u[1].q[1] = 1 - 0.2 = 1**
 **v[2] = v[0] - v[1].q[1] = 0 - 1.2 = -2**
+
 |No.|    | u | v |q|
 |---|----|---|---|-|
 | 0 | 75 | 1 | 0 | |
 | 1 | 28 | 0 | 1 | 2|
 | 2 | 19 | 1 | -2 | |
+{: .tablelines}
 
 Thirdly, **q[2] = 28/19 = 1** and the reminder is **9**
 **u[3] = u[1] - u[2].q[2] = 0 - 1.1 = -1**
 **v[3] = v[1] - v[2].q[2] = 1 - (-2).1 = 3**
+
 |No.|    | u | v |q|
 |---|----|---|---|-|
 | 0 | 75 | 1 | 0 | |
 | 1 | 28 | 0 | 1 | 2|
 | 2 | 19 | 1 | -2 | 1|
 | 3 | 9 | -1 | 3 | |
+{: .tablelines}
 
 Then, **q[3] = 19/9 = 2** and the reminder is **1**
 **u[4] = u[2] - u[3].q[3] = 1 - (-1).2 = 3**
 **v[4] = v[2] - v[3].q[3] = -2 - 3.2 = -8**
+
 |No.|    | u | v |q|
 |---|----|---|---|-|
 | 0 | 75 | 1 | 0 | |
@@ -74,8 +80,10 @@ Then, **q[3] = 19/9 = 2** and the reminder is **1**
 | 2 | 19 | 1 | -2 | 1|
 | 3 | 9 | -1 | 3 | 2|
 | 4 | 1 | 3 | -8 | |
+{: .tablelines}
 
 Then, **q[4] = 9/1 = 9** and the reminder is **0**. Whenever the reminder is **0**, we stop the algorithm. Since **a** and **b** are co-prime numbers, the inverse of **b (mod a)** always exists.
+
 |No.|    | u | v |q|
 |---|----|---|---|-|
 | 0 | 75 | 1 | 0 | |
@@ -83,7 +91,7 @@ Then, **q[4] = 9/1 = 9** and the reminder is **0**. Whenever the reminder is **0
 | 2 | 19 | 1 | -2 | 1|
 | 3 | 9 | -1 | 3 | 2|
 | 4 | 1 | 3 | -8 | 9|
-| 5 | 0 |  |  | |
+| 5 | 0 |  |  | |{: .tablelines}
 
 We have the result
 <p align="center"><img src="https://latex.codecogs.com/gif.latex?28^{-1}&space;\pmod{75}&space;=&space;-8&space;\pmod{75}&space;=&space;67"/></p>
