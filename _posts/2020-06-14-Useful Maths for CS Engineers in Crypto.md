@@ -19,7 +19,9 @@ Given a prime number **p** and an integer number **a** satified that **gcd(a,p)=
 
 <p align="center"><img src="https://latex.codecogs.com/gif.latex?a^{p-1}&space;\equiv&space;1&space;\pmod&space;p"/></p>
 
-This theorem is used to prove the fomula of RSA. If we follow the popular notations of RSA where **m** is message, **c** is ciphertext, **(e, n)** is the public key (**n=pq**) and **d** is private key.
+This theorem is used to prove the fomula of RSA. In this post, we take the proof of RSA as an example. 
+
+If we follow the popular notations of RSA where **m** is message, **c** is ciphertext, **(e, n)** is the public key (**n=pq**) and **d** is private key.
 
 + Encryption: ![equation](https://latex.codecogs.com/gif.latex?c&space;=&space;m^e&space;\mod&space;n)
 + Decryption: ![equation](https://latex.codecogs.com/gif.latex?c^d&space;\mod&space;n&space;=&space;m^{ed}&space;\mod&space;n&space;=&space;m)
