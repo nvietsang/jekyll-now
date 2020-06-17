@@ -91,7 +91,7 @@ Then, **q[4] = 9/1 = 9** and the reminder is **0**. Whenever the reminder is **0
 | 2 | 19 | 1 | -2 | 1|
 | 3 | 9 | -1 | 3 | 2|
 | 4 | 1 | 3 | -8 | 9|
-| 5 | 0 |  |  | |{: .tablelines}
+| 5 | 0 |  |  | |
 
 We have the result
 <p align="center"><img src="https://latex.codecogs.com/gif.latex?28^{-1}&space;\pmod{75}&space;=&space;-8&space;\pmod{75}&space;=&space;67"/></p>
