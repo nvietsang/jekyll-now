@@ -15,3 +15,7 @@ Working in Cryptography needs a good knowledge at Maths. However, for a Computer
 + [Bézout’s theorem](https://nvietsang.github.io/Extended-Euclidean-Algorithm)
 
 ## Extended Euclidean Algorithm
+|No.|    | u | v |q|
+|---|----|---|---|-|
+| 0 | 75 | 0 | 1 | |
+| 1 | 28 | 1 | 0 | |
