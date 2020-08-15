@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: Milestones
 permalink: /milestones/
----
+--- -->
 
 # 2020
 + January: Rank 2/23 in the first semester (14.22/20), Master 1 Information Security, Cryptis Program, UNILIM
