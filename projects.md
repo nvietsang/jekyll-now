@@ -50,8 +50,9 @@ These are educational projects which I did in different courses in UNILIM. Perso
 + **TriviaLim (Advanced Java course, 17/20):** Built an Android gaming application of answering multiple-choice questions. Designed the architecture of database and the script. Applied fragments to control activities. Used Firebase as database. [apk](https://nvietsang.github.io/pdfs/TriviaLim.apk) [Report](https://nvietsang.github.io/pdfs/Report_JavaAv.pdf)
 
 + **Game of Labyrinth (Artificial Intelligence 1 course):**
-Implemented different searching algorithms (Best-First Search, A*, Breath-First Search, Depth-First Search).
-+ **Learning Algorithms (Artificial Intelligence 2 course):** Implement unsupervised algorithm (K-means) and supervised algorithms (Perceptron, Neuron Network) to classify. Did experiments and comparisons. [Demo](https://youtu.be/GNThQGsgZD4) [Report](https://nvietsang.github.io/pdfs/Report_AI1.pdf)
+Implemented different searching algorithms (Best-First Search, A\*, Breath-First Search, Depth-First Search). [Report](https://nvietsang.github.io/pdfs/Report_AI1.pdf)
+
++ **Learning Algorithms (Artificial Intelligence 2 course):** Implement unsupervised algorithm (K-means) and supervised algorithms (Perceptron, Neuron Network) to classify. Did experiments and comparisons. [Demo](https://youtu.be/GNThQGsgZD4) 
 
 + **NashE and Dom (Game Theory course, 17/20):** Computed pure Nash equilibrium, mixed Nash equilibrium, dominated strategies and check if a game is zero-sum. Applied to different types of games (2 players - 2 actions, 2 players - many actions, many players - many actions).[Demo](https://youtu.be/blwCa2zhBn8) [Report](https://nvietsang.github.io/pdfs/Report_GameTheory.pdf)
 
