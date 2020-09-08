@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## Internship
 [Research Institute XLIM](https://www.xlim.fr) - Researcher Intern
-+ **Pre-filtering in Pub/Sub systems:** Implemented an encrypted matching scheme. Embedded Bloom Filter and Cuckoo Filter into broker in order to pre-discard costly matching operation in case of being known definitely not to match. Compared the two filters’ performances. 
++ **Pre-filtering in Pub/Sub systems:** Implemented an encrypted matching scheme. Embedded Bloom Filter and Cuckoo Filter into broker in order to pre-discard costly matching operation in case of being known definitely not to match. Compared the two filters’ performances. [Report](https://nvietsang.github.io/pdfs/Report_Intern_Prefiltering.pdf)
 
 [Knorex](https://www.knorex.com) - Researcher Intern
 + **Language Detection:** Fixed bugs. Evaluated and improved 60% in accuracy when detecting Malaysian and Indonesian.  Added the ability to detect 5 new languages.
