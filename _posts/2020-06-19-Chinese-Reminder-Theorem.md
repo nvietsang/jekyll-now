@@ -16,6 +16,3 @@ Working in Cryptography needs a good knowledge at Maths. However, for a Computer
 + [Bézout’s theorem](https://nvietsang.github.io/Extended-Euclidean-Algorithm)
 
 ## The Chinese Reminder Theorem
-This is in line $Hello$
-
-This is not in line $$\dot H$$
