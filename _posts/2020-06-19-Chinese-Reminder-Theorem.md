@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Useful Maths for CS Engineers in Crypto
+mathjax: true
 ---
 
 *(Part 5: Chinese Reminder Theorem)*
@@ -15,4 +16,6 @@ Working in Cryptography needs a good knowledge at Maths. However, for a Computer
 + [Bézout’s theorem](https://nvietsang.github.io/Extended-Euclidean-Algorithm)
 
 ## The Chinese Reminder Theorem
+\[Hello\]
 
+ \(\mathbf{X} = [\mathbf{x}_1, \mathbf{x}_2, \dots, \mathbf{x}_N] \in \mathbb{R}^{d \times N}\)
