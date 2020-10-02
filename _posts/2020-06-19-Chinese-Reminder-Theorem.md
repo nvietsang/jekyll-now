@@ -19,3 +19,5 @@ Working in Cryptography needs a good knowledge at Maths. However, for a Computer
 $Hello$
 
  Ka kak a \(\mathbf{X} = 2 \) huhuhu
+
+ $$\dot H$$
