@@ -37,7 +37,9 @@ Find $x$?
 Find $x$ such that
 
 $$x \equiv 5 \pmod{7}$$
+
 $$x \equiv 3 \pmod{11}$$
+
 $$x \equiv 10 \pmod{13}$$
 
 $N = 7\times 11 \times 13 = 1001$
