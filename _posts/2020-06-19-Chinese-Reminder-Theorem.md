@@ -18,4 +18,4 @@ Working in Cryptography needs a good knowledge at Maths. However, for a Computer
 ## The Chinese Reminder Theorem
 $Hello$
 
- Ka kak a \(\mathbf{X} = [\mathbf{x}_1, \mathbf{x}_2, \dots, \mathbf{x}_N] \in \mathbb{R}^{d \times N}\) huhuhu
+ Ka kak a \(\mathbf{X} = 2 \) huhuhu
