@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: Useful Maths for CS Engineers in Crypto
 ---
 
