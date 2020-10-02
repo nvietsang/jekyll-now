@@ -23,16 +23,16 @@ We want to compute $x^e \pmod{n}$ in a fast way.
 Apply the Square and Multiply Algorithm. The pseudocode is as follows.
 ```
 write e in binary format. p is number of bits of e.
-z <- 0
+z = 0
 for i from p-1 to 0 do
-    z <- z*z (mod n)
+    z = z*z (mod n)
     if e[i] = 1:
         z <- z * x (mod n)
 return z
 ```
 
 ### Example
-Compute $688^79 \pmod{3337}$
+Compute $688^{79} \pmod{3337}$
 
 $79 = (1001111)_2$
 
