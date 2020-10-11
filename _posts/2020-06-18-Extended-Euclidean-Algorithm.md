@@ -38,12 +38,12 @@ We don't dive deeper into the pseudo code of the algorithm. Instead, we take a h
 
 Note: we use the notation **u[0]** to point the value of **u** at line **0**.
 
-First of all, we initialize the table as follows. Notice that **u[0] = 0, u[1] = 1, v[0] = 1, v[1] = 0**. Notation **q** stands for quotient.
+First of all, we initialize the table as follows. Notice that **u[0] = 1, u[1] = 0, v[0] = 0, v[1] = 1**. Notation **q** stands for quotient.
 
 |No.|    | u | v |q|
 |---|----|---|---|-|
-| 0 | 75 | 0 | 1 | |
-| 1 | 28 | 1 | 0 | |
+| 0 | 75 | 1 | 0 | |
+| 1 | 28 | 0 | 1 | |
 {: .tablelines}
 
 Secondly, **q[1] = 75/28 = 2** and the reminder is **19**
