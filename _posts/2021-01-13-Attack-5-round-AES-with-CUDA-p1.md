@@ -12,7 +12,7 @@ In order to deeply understand the principle of the attack, I recommend you to re
 The pseudo code below is a function used to attack a quadruplet of key. At first, the arguments include:
 - **qid**: quadruplet ID, it specifies the quadruplet we want to attack. it can be 0, 1, 2, or 3. Four quadruplets are shown in the following figure.
 
-<img src="{{ site.baseurl }}/figures/2021-01-13-quadruplets.png" style="width: 400px;"/>
+<p align="center"><img src="{{ site.baseurl }}/figures/2021-01-13-quadruplets.png" style="width: 400px;"/></p>
 
 - **idx1, idx2, idx3, idx4:** Four indexes of a quadruplet. For example, qid = 0, we can assign idx1 = 7, idx2 = 10, idx3 = 13, idx4 = 0.
 
